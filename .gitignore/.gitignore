@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<title>hey</title>
+	<link rel="stylesheet" href="css/rnd.css">
+</head>
+<body>
+	<header>
+		<div id="titulo">
+			<img src="imagenes/2.jpg" width="200px">
+<h1>RND</h1>
+		</div>
+		<nav>
+			<nav class="navegacion">
+				<ul class="menu">
+					<li><a  target ="_blank" href="#">Inicio</a></li>
+						<li><a target="_blank" href="https://www.instagram.com/randye.yf/?hl=es-la">Contactame</a></li>
+					<li><a target="_blank" href="#">Servicio</a>
+					</li>
+				</ul>
+			</nav>
+		</nav>
+	</header>
+</body>
+			<ul>
+				<li><a target="_blank" href="https://www.pullandbear.com/es/mujer/novedades-c1030017536.html?NEWCOLLECTION">Ve nuestra colaboracion con PULL AND BEAR</a></li>
+				<li><a target="_blank" href="img/3.jpg">Ve a lele pons modelando nuestra nueva lanceria</a></li>
+			</ul>
+		</nav>
+
+	</header>
+
+	<section class="main">
+		<section class="articles">
+			<article>
+				<h2>Para que trabajamos</h2>
+				<p>Nosotros trabajamos para los jovenes que promedian una edad de 15 a 20 años , nuestra inspiracion es que estos jovenes puedan tener el mismo estilo que llevan sus idolos ya sean YOUTUBER , MUSICOS , O MODELOS.
+				Es un gusto para mi poder presentarles la nueva marca de ropa que dara de que hablar.</p>
+
+			</article>
+			<article>
+				<h2>Nuestro Proposito</h2>
+				<p>Nuestro proposito es poder llevar este preyecto a las naciones posibles a un precio como para todas las personas que deseen llevar nuestra marca. Con nuestro estilo y con tu vanidad puedes lucir mejor aun ASI QUE TE ESPERAMOS ESTE 30 DE OCTUBRE EN CC MIRAFLORES para nuestra gran ingnauracion </p>
+			</article>
+		</section>
+
+		<aside>
+			<h3></h3>
+			<p>Curabitur eget placerat massa. Vestibulum est lectus, efficitur eu hendrerit in, mollis quis mi. Phasellus posuere ligula tortor, nec congue justo rhoncus et. Proin lorem felis, accumsan ac velit varius, varius ultrices ex. Nam ornare malesuada lectus, eu pretium elit tristique id. Vivamus feugiat sem sagittis finibus condimentum. Nam efficitur vel arcu quis faucibus. Mauris feugiat aliquet fermentum. Maecenas varius libero ac luctus sodales. Nunc neque quam, blandit eget nisi id, congue feugiat enim. Quisque ut vulputate turpis. Proin quis lorem at neque vulputate vestibulum eu in enim. Nunc arcu massa, egestas vitae metus a, ultrices fringilla sem.</p>
+			<figure>
+				<img src="imagenes/1.jpg" alt="Ricardo Cabrera modelando para la revista STYLE" width="50%" height="50%"> 
+			</figure>
+		</aside>
+	</section>
+
+	<footer>
+		<p>Randy Escobar</p>
+	</footer>
+
+</body>
+</html>
